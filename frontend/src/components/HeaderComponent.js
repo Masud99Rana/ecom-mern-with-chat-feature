@@ -57,9 +57,11 @@ import {
                 </NavDropdown.Item>
                 <NavDropdown.Item>Logout</NavDropdown.Item>
               </NavDropdown>
+
               <LinkContainer to="/login">
                 <Nav.Link>Login</Nav.Link>
               </LinkContainer>
+              
               <LinkContainer to="/register">
                 <Nav.Link>Register</Nav.Link>
               </LinkContainer>
