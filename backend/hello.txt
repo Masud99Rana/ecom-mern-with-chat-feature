@@ -32,6 +32,11 @@ https://icons.getbootstrap.com/
 -> npm i js-image-zoom@^0.7.0
 -> npm install recharts@^2.1.9
 
+-> npm i redux react-redux redux-thunk  redux-devtools-extension
+
+-> npm i socket.io-client
+-> npm i react-helmet-async
+-> npm i @paypal/paypal-js
 
 
 
